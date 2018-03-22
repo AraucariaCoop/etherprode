@@ -1,2 +1,2 @@
 # etherprode
-Pronósticos Deportivos sobre Blockchain Etherium
+Pronósticos Deportivos sobre Blockchain Ethereum
